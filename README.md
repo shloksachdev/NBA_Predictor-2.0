@@ -10,7 +10,7 @@
 
 ## 🚀 Features
 
-- **Machine Learning Core**: Achieves a mathematically proven **65.4% engineered accuracy rate** (outperforming the 62.6% baseline) across a robust 10-year backtest.
+- **Machine Learning Core**: Achieves a mathematically proven **65.4% engineered accuracy rate** (outperforming the 62.6% baseline) across a robust 5-year backtest.
 - **Dynamic Calendar Engine**: Select any date to instantly retrieve the historical/live match schedule and calculate head-to-head win probabilities.
 - **Deep Team Stats Drilldown**: Analyzes over 40 variables, including Offensive Rating, Pace, True Shooting Percentage (TS%), and Turnover Rates, dynamically highlighting statistical edges in a "Tale of the Tape" format.
 - **No Target Leakage**: Utilizes rolling 10-game Exponential Moving Averages (EMA) to ensure that predictions are made strictly on historical data available *before* tip-off.
