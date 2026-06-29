@@ -1,6 +1,8 @@
 venv/
 __pycache__/
 .vscode/
-.env    
+.env
 .agents
-data/
+data/*
+!data/final_training_data_engineered.csv
+*.ipynb_checkpoints/
