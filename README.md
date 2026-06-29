@@ -1,5 +1,7 @@
 # 📈 HOOPCAST | NBA Predictor 2.0
 
+**Live Demo:** [https://hoopcast-otf0.onrender.com](https://hoopcast-otf0.onrender.com)
+
 ![HOOPCAST Prediction Engine](screenshot.png)
 
 *A production-ready full-stack Machine Learning Web Application that predicts the outcome of NBA games using a custom-trained algorithm and real-time Exponential Moving Averages.*
